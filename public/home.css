@@ -1,0 +1,29 @@
+
+h1 {
+  color: #1179A2
+}
+
+.selected {
+  background-color: #FFFFFF;
+}
+
+body {
+  background-color: #F5F8FA;
+  text-align: center;
+}
+
+ul {
+  border: 1px solid black;
+  background-color: #399DC1;
+  margin: 10px;
+  border-radius: 15px;
+  max-width: 200px;
+  text-align: center;
+  padding: 0px;
+  display: inline-block;
+  min-width: 300px;
+}
+
+.correct {
+  color: #95C380
+}
